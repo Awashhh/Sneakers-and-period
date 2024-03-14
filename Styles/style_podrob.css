@@ -4,11 +4,11 @@
 }
 @font-face {
     font-family: "AnonymousPro-Bold" ;
-    src: url(AnonymousPro-Bold.ttf);
+    src: url(../fonts/AnonymousPro-Bold.ttf);
 }
 @font-face {
     font-family: "AnonymousPro-Regular" ;
-    src: url(AnonymousPro-Regular.ttf);
+    src: url(../fonts/AnonymousPro-Regular.ttf);
 }
 
 .header_full {
